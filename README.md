@@ -28,7 +28,7 @@ An imaginary coffee shop data set.
 
 ## Data transformation
 1.	I verified that every field in the dataset—text, binary, integer, data, etc.—was formatted appropriately.
-2.	To prepare the data for analysis, I used Power Bi to do data cleaning and duplicate elimination.
+2.	To prepare the data for analysis, I used power query to do data cleaning and duplicate elimination.
 3.	I used XLookup to extract information needed from other two files containing necessary details.
 
 ## Analysis and visualization

@@ -35,7 +35,7 @@ An imaginary coffee shop data set.
 Numerous discoveries were made by using a variety of chart forms, including pie, bar, and doughnut charts.
 
 ##  Coffee Shop Sales Dashboard
-![](coffee2.jpeg)
+![](Capture.JPEG)
 
 ### Total sales for each coffee type.
 
@@ -49,7 +49,7 @@ Numerous discoveries were made by using a variety of chart forms, including pie,
 ![](country.jpeg)
 
 ## The total quantity ordered for each coffee type.
-![](quantity.jpeg)
+![](Capture2.JPEG)
 
 
 ## Insight
